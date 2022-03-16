@@ -2,7 +2,7 @@ title: Jon Scheiber
 description: Welcome to the playground of the world.
 google_analytics: 
 show_downloads: false
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 
 gems:
   - jekyll-mentions
