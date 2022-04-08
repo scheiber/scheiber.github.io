@@ -20,6 +20,9 @@ Blocks ads, and blocks them well. Fully configurable with custom filters and blo
 
 ## Utility
 
+### [Save to Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj)
+Want to read an article but don't have the time right now? Put it in your pocket for later! [Pocket](https://getpocket.com/) is a service that lets you save websites, articles, and even videos in once place that you can access at your leisure. With apps available for iOS, Android, and Mac, you're always able to access your saved items. The Save to Pocket places an icon in your toolbar that adds your current tab to your items with a single click.
+
 ### [IP Domain Country Flag](https://chrome.google.com/webstore/detail/ip-domain-country-flag/mlpapfcfoakknnhkfpencomejbcecdfp?hl=en)
 
 Have you ever wanted to know where the site that your looking at is hosted, the name of its hosting company or the IP address of its server? Admittedly, this doesn't happen often, but if you ever wondered, have I got the extension for you. IP Domain Country Flag displays a small flag icon that shows where the site your viewing is hosted. Clicking this flag gives you additional information to fulfill all of your curiosities. 
