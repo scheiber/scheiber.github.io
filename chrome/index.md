@@ -50,4 +50,4 @@ Have you ever wanted to know where the site that your looking at is hosted, the 
 
 ### [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
 
-Turns down the lights and makes blinding white pages dark. Allows you to set preferences per site and can even invoked with a keyboard shortcut (Shift + Option + D). Your eyes will thank you.
+Turns down the lights and makes blinding white pages dark. Allows you to set preferences per site and can even be invoked with a keyboard shortcut (Shift + Option + D). Your eyes will thank you.
