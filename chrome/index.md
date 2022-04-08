@@ -1,7 +1,7 @@
 # Jonathan's List of Recommended Chrome Extensions
 Here's an ever-growing list of some of my favorite Chrome extensions, along with a brief description of their purpose and why I enjoy them. Have a suggestion for this list? Feel free to [contact me](https://github.com/scheiber).
 
-Page last updated 4/8/21
+_Page last updated 4/8/21_
 
 ## Security
 
@@ -22,6 +22,10 @@ Blocks ads, and blocks them well. Fully configurable with custom filters and blo
 
 ### [Save to Pocket](https://chrome.google.com/webstore/detail/save-to-pocket/niloccemoadcdkdjlinkgdfekeahmflj)
 Want to read an article but don't have the time right now? Put it in your pocket for later! [Pocket](https://getpocket.com/) is a service that lets you save websites, articles, and even videos in once place that you can access at your leisure. With apps available for iOS, Android, and Mac, you're always able to access your saved items. The Save to Pocket places an icon in your toolbar that adds your current tab to your items with a single click.
+
+### [SingleFile](https://chrome.google.com/webstore/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle)
+
+A wonderful little extension that lets you save the complete contents and layout of any webpage into a single HTML file. Great for archiving. [It's open-source too](https://github.com/gildas-lormeau/SingleFile)!
 
 ### [IP Domain Country Flag](https://chrome.google.com/webstore/detail/ip-domain-country-flag/mlpapfcfoakknnhkfpencomejbcecdfp?hl=en)
 
