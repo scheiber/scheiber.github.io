@@ -12,13 +12,13 @@ Here's a weather app I made using pure JavaScript, HTML, and CSS.
 
 ## Personal
 
-### [musicMan](/.musicMan)
+### [musicMan](./musicMan)
 
 musicMan is a way to discover and receive information about recommended albums. Simply enter a genre or the word "random" to receive an album name, artist, and genre.
 
 # Articles:
 
-- Here's [some Chrome extensions that I like](./chrome/).
+Here's [some Chrome extensions that I like](./chrome/).
 
 # Contact:
 
