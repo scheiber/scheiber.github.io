@@ -2,7 +2,7 @@
 
 Here's an ever-growing list of some of my favorite Chrome extensions, along with a brief description of their purpose and why I enjoy them. Have a suggestion for this list? Feel free to [contact me](https://github.com/scheiber).
 
-_Page last updated 4/8/21_
+_Page last updated 4/22/22_
 
 ## Security
 
