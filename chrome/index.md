@@ -32,6 +32,12 @@ Don't you just hate when you're watching a YouTube video and then a sponsor appe
 
 Have a Gmail account? Of course you do. Therefore, you need Checker Plus for Gmail. In addition to notifying you about new email, it includes oodles of neat features and customization galore. Of note is multiple account support, colorful themes, custom alert sounds, and the ability to read and archive mail without having to leave your current tab. Your email never looked this good.
 
+## Development
+
+### ***[NEW]*** [View Rendered Source](https://chrome.google.com/webstore/detail/view-rendered-source/ejgngohbdedoabanmclafpkoogegdpob/)
+
+This handy little extension lets you not only view the raw HTML source of a webpage, but also any modifications that are rendered on the page using JavaScript, plus it highlights the differences. An indispensable tool for any web developer.
+
 ## Utility
 
 ### [Better History](https://chrome.google.com/webstore/detail/better-history/egehpkpgpgooebopjihjmnpejnjafefi)
