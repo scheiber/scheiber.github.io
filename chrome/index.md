@@ -2,7 +2,7 @@
 
 Here's an ever-growing list of some of my favorite Chrome extensions, along with a brief description of their purpose and why I enjoy them. Have a suggestion for this list? Feel free to [contact me](https://github.com/scheiber).
 
-_Page last updated 4/22/22_
+_Page last updated 4/30/22._
 
 ## Security
 
@@ -38,6 +38,10 @@ Have a Gmail account? Of course you do. Therefore, you need Checker Plus for Gma
 
 This handy little extension lets you not only view the raw HTML source of a webpage, but also any modifications that are rendered on the page using JavaScript, plus it highlights the differences. An indispensable tool for any web developer.
 
+### ***[NEW]*** [Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn)
+
+A simple, magic button that lives in your toolbar and allows you to clear your cache with a single click. No more navigating through complicated settings panels to purge your browsing data. Heavily customizable to let your clear history, downloads, cookies, and much more.
+
 ## Utility
 
 ### [Better History](https://chrome.google.com/webstore/detail/better-history/egehpkpgpgooebopjihjmnpejnjafefi)
@@ -55,6 +59,10 @@ A wonderful little extension that lets you save the complete contents and layout
 ### [IP Domain Country Flag](https://chrome.google.com/webstore/detail/ip-domain-country-flag/mlpapfcfoakknnhkfpencomejbcecdfp)
 
 Have you ever wanted to know where the site that your looking at is hosted, the name of its hosting company or the IP address of its server? Admittedly, this doesn't happen often, but if you ever wondered, have I got the extension for you. IP Domain Country Flag displays a small flag icon that shows where the site your viewing is hosted. Clicking this flag gives you additional information to fulfill all of your curiosities.
+
+### ***[NEW]*** [Return YouTube Dislike](https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi)
+
+Miss the ability to dislike YouTube videos and see how many dislikes a video has? Worry no more. This extension brings it all back, and all is now balanced in the universe.
 
 ## Aesthetics
 
