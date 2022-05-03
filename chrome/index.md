@@ -77,3 +77,7 @@ Miss the ability to dislike YouTube videos and see how many dislikes a video has
 ### [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh)
 
 Turns down the lights and makes blinding white pages dark. Allows you to set preferences per site and can even be invoked with a keyboard shortcut (Shift + Option + D). Your eyes will thank you.
+
+### ***[NEW]*** [Modern for Wikipedia](https://chrome.google.com/webstore/detail/modern-for-wikipedia/emdkdnnopdnajipoapepbeeiemahbjcn)
+
+Make Wikpedia look fabulous. A striking and elegant modern skin for everyone's favorite online encyclopedia. Plenty of customization with background colors, fonts, line height, and column width. Doing research has never looked so gorgeous.
