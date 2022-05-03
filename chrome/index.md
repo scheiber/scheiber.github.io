@@ -42,6 +42,10 @@ This handy little extension lets you not only view the raw HTML source of a webp
 
 A simple, magic button that lives in your toolbar and allows you to clear your cache with a single click. No more navigating through complicated settings panels to purge your browsing data. Heavily customizable to let your clear history, downloads, cookies, and much more.
 
+### ***[NEW]*** [Refined GitHub](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf)
+
+Supercharges your GitHub experience by adding tons of tweaks and features. Fully customizable so you can make GitHub look and work exactly as you desire.
+
 ## Utility
 
 ### [Better History](https://chrome.google.com/webstore/detail/better-history/egehpkpgpgooebopjihjmnpejnjafefi)
