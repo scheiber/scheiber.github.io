@@ -56,6 +56,10 @@ Sure, Chrome already has a history feature. This is just a better way to access 
 
 Want to read an article but don't have the time right now? Put it in your pocket for later! [Pocket](https://getpocket.com/) is a service that lets you save websites, articles, and even videos in once place that you can access at your leisure. With apps available for iOS, Android, and Mac, you're always able to access your saved items. The Save to Pocket places an icon in your toolbar that adds your current tab to your items with a single click.
 
+### ***[NEW]*** [Magical](https://chrome.google.com/webstore/detail/magical-text-expander/iibninhmiggehlcdolcilmhacighjamp)
+
+Find yourself typing the same things over and over again? Magical is a simple yet powerful text expander that lets you save commonly-used text snippets and insert them with your choice of hotkeys. Save time by typing less while typing more.
+
 ### [SingleFile](https://chrome.google.com/webstore/detail/singlefile/mpiodijhokgodhhofbcjdecpffjipkle)
 
 A wonderful little extension that lets you save the complete contents and layout of any webpage into a single HTML file. Great for archiving. [It's open-source too](https://github.com/gildas-lormeau/SingleFile)!
