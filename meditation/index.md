@@ -2,13 +2,13 @@
 
 Here's a list of some of my favorite meditation apps, along with a brief description of what I enjoy about them. Have a suggestion for this list? Feel free to [contact me](https://github.com/scheiber).
 
-_Page last updated 6/27/22._
+_Page last updated 7/11/22._
 
 ## [Calm](https://www.calm.com/) (web, iOS, Android)
 
 _Free with limited content, $69.99 per year for premium content._
 
-Calm is by far the most popular and well-known meditation apps, and for good reason. With features like The Daily Calm, soundscapes, sleep stories and celebrity guest content, there's something here for everyone.
+Calm is by far the most popular and well-known meditation app, and for good reason. With features like The Daily Calm, soundscapes, sleep stories and celebrity guest content, there's something here for everyone.
 
 ## [Headspace](https://www.headspace.com/) (web, iOS, Android)
 
