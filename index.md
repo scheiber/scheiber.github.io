@@ -6,7 +6,12 @@ I'm a full-stack web development fellow at Pursuit and a CompTIA A+ certified IT
 
 ## Pursuit
 
-### [Weather App](./8-3-weather-app-project/)
+### [9Tube](https://9tube.netlify.app/) -  React, JavaScript, YouTube API, HTML, CSS (June 2022)
+
+- Developed an interactive web-based YouTube client that searches for and displays embedded videos being fetched from the [YouTube API](https://developers.google.com/youtube/v3).
+- Responsible for project management, creating graphic and layout elements, branding, search enhancements, writing documentation, and optimizing user experience.
+- Source available [here](https://github.com/JC-MT/YouTubeClone.9).
+### [Weather App](./8-3-weather-app-project/) - JavaScript, wttr.in API, HTML, CSS (April 2022)
 
 This is a weather app I made as an assignment for Pursuit.
 
