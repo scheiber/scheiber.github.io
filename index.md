@@ -4,7 +4,7 @@ I'm a full-stack web development fellow at Pursuit and a CompTIA A+ certified IT
 
 # Projects:
 
-Visit my portfolio site for an up-to-date list of my projects.
+Visit [my portfolio site](https://scheiber.dev/portfolio) for an up-to-date list of my projects.
 
 # Articles:
 
