@@ -4,6 +4,8 @@ I'm a full-stack web development fellow at Pursuit and a CompTIA A+ certified IT
 
 # Projects:
 
+I created the [Twilight Zone Catalogue](./twilight-zone-catalogue/), a front-end application that allows users to browse and search through the episodes of the original Twilight Zone series using a [fork](https://twilight-zone-api-production.up.railway.app/) of the [Twilight Zone API](https://thetwilightzoneapi.netlify.app/).
+
 Visit [my portfolio site](https://scheiber.dev/portfolio) for an up-to-date list of my projects.
 
 # Articles:
